@@ -1,9 +1,9 @@
-baseURL = "https://codingnconcepts.com/"
+baseURL = "/"
 languageCode = "en-us"
-title = "Coding N Concepts"
-disqusShortname = "codingnconcepts" # Enable Disqus comments by entering your Disqus shortname
-googleAnalytics = "UA-XXXXXXXXX-X" # Enable Google Analytics by entering your tracking id
-publishDir = "ashishlahoti.github.io"
+title = "Sample website"
+disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+publishDir = ""
 assetDir = "static"
 theme = "highway"
 
@@ -58,15 +58,15 @@ theme = "highway"
     weight = 2  
 
 [Author] # Default Author
-  code = "ashishlahoti"
-  name = "Ashish Lahoti"
+  code = "vidhun"
+  name = "vidhun"
 
 [Params]
-  title = "CodingNConcepts"
-  subtitle = "Ashish Lahoti's Technical Blog" # Subtitle of your site. Used in site header
-  description = "Coding N Concepts is a technical blog for developers by developers to help you with coding problems, puzzle-solving, interview preparation, learning concepts in a simplified way." # Site description. Used in meta description
+  title = "sample website"
+  subtitle = "placeholder text" # Subtitle of your site. Used in site header
+  description = "this is a website under construction." # Site description. Used in meta description
   logo = "/img/favicon.ico"
-  copyright = "CodingNConcepts" # Footer copyright holder, otherwise will use site title
+  copyright = "" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   twitter_cards = true # Enable Twitter Cards if true
   readmore = true # Show "Read more" button in list if true
@@ -104,19 +104,19 @@ theme = "highway"
 
 [Params.widgets.social]
   # Enable parts of social widget
-  facebook = "codingnconcepts"
-  twitter = "@codingnconcepts"
+  facebook = ""
+  twitter = "@"
   #instagram = "username"
-  linkedin = "feed/hashtag/codingnconcepts/"
+  linkedin = "feed/hashtag//"
   #telegram = "username"
-  github = "ashishlahoti"
+  github = ""
   #gitlab = "username"
   #bitbucket = "username"
-  email = "lahoti.ashish20@gmail.com"
+  email = "@gmail.com"
 
 [[Params.widgets.social.custom]]
   title = "Home Page"
-  url = "http://codingnconcepts.com/"
+  url = ""
 
 [markup]
   [markup.goldmark.renderer]
@@ -133,7 +133,7 @@ theme = "highway"
     tabWidth = 4
 
 [social]
-  facebook = "codingnconcepts"
+  facebook = ""
   facebook_admin = "xxxxxxxxxxx"
 
   
